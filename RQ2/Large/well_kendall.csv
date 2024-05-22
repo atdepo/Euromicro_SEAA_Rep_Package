@@ -1,101 +1,111 @@
-Dependent,Independent,Correlation,Significance
+Dependent,Independent,Correlation
 ComplexContainerComprehension,Stars,0.05138574333545
 ComplexContainerComprehension,Commits,0.0477188725477708
-ComplexContainerComprehension,Lines of Code,0.305769044095012****
-ComplexContainerComprehension,Community_Converted,0.0977633527657272*
-ComplexContainerComprehension,Continuous Integration_Converted,-0.136580271258907**
-ComplexContainerComprehension,Documentation_Converted,0.0354768985083298
-ComplexContainerComprehension,History_Converted,-0.0355873511375118
-ComplexContainerComprehension,Issues_Converted,0.07994078399691
-ComplexContainerComprehension,License_Converted,0.00597460958252216
-ComplexContainerComprehension,Unit Testing_Converted,-0.00595361466708988
-ComplexLambdaExpression,Stars,0.105611619869145**
+ComplexContainerComprehension,Lines of Code,0.305769044095012**
+ComplexContainerComprehension,Community,0.0977633527657272
+ComplexContainerComprehension,Continuous Integration,-0.136580271258907*
+ComplexContainerComprehension,Documentation,0.0354768985083298
+ComplexContainerComprehension,History,-0.0355873511375118
+ComplexContainerComprehension,Issues,0.07994078399691
+ComplexContainerComprehension,License,0.00597460958252216
+ComplexContainerComprehension,Unit Testing,-0.00595361466708988
+ComplexContainerComprehension,Contributors,0.0764783994896375
+ComplexLambdaExpression,Stars,0.105611619869145*
 ComplexLambdaExpression,Commits,0.0679644182632886
-ComplexLambdaExpression,Lines of Code,0.276084745174376****
-ComplexLambdaExpression,Community_Converted,0.0291227264999193
-ComplexLambdaExpression,Continuous Integration_Converted,0.0470185885366516
-ComplexLambdaExpression,Documentation_Converted,0.0906922761034996
-ComplexLambdaExpression,History_Converted,0.0505674167514725
-ComplexLambdaExpression,Issues_Converted,0.0627185608463
-ComplexLambdaExpression,License_Converted,0.0410831749171342
-ComplexLambdaExpression,Unit Testing_Converted,-0.026614065415849
-LargeClass,Stars,0.135875813465732***
-LargeClass,Commits,0.102575832922708**
-LargeClass,Lines of Code,0.330696568126747****
-LargeClass,Community_Converted,0.0783538087666997
-LargeClass,Continuous Integration_Converted,-0.0616385449221198
-LargeClass,Documentation_Converted,0.0646842395743518
-LargeClass,History_Converted,0.0180623719240722
-LargeClass,Issues_Converted,0.0411569798215779
-LargeClass,License_Converted,-0.0512833432111685
-LargeClass,Unit Testing_Converted,-0.0152278938112574
-LongBaseClassList,Stars,0.135241726047315***
+ComplexLambdaExpression,Lines of Code,0.276084745174376*
+ComplexLambdaExpression,Community,0.0291227264999193
+ComplexLambdaExpression,Continuous Integration,0.0470185885366516
+ComplexLambdaExpression,Documentation,0.0906922761034996
+ComplexLambdaExpression,History,0.0505674167514725
+ComplexLambdaExpression,Issues,0.0627185608463
+ComplexLambdaExpression,License,0.0410831749171342
+ComplexLambdaExpression,Unit Testing,-0.026614065415849
+ComplexLambdaExpression,Contributors,0.0664197671415792
+LargeClass,Stars,0.135875813465732*
+LargeClass,Commits,0.102575832922708*
+LargeClass,Lines of Code,0.330696568126747**
+LargeClass,Community,0.0783538087666997
+LargeClass,Continuous Integration,-0.0616385449221198
+LargeClass,Documentation,0.0646842395743518
+LargeClass,History,0.0180623719240722
+LargeClass,Issues,0.0411569798215779
+LargeClass,License,-0.0512833432111685
+LargeClass,Unit Testing,-0.0152278938112574
+LargeClass,Contributors,0.136300837416014*
+LongBaseClassList,Stars,0.135241726047315*
 LongBaseClassList,Commits,0.0767641750264901
-LongBaseClassList,Lines of Code,0.289251067950419****
-LongBaseClassList,Community_Converted,0.0688294361358571
-LongBaseClassList,Continuous Integration_Converted,-0.0790041891635095
-LongBaseClassList,Documentation_Converted,0.0673769864483289
-LongBaseClassList,History_Converted,-0.0064385544103736
-LongBaseClassList,Issues_Converted,0.0470884595019353
-LongBaseClassList,License_Converted,-0.0552706467002002
-LongBaseClassList,Unit Testing_Converted,-0.0156870481073771
-LongMessageChain,Stars,0.113203777447413**
-LongMessageChain,Commits,0.104990566321421**
-LongMessageChain,Lines of Code,0.359866655455564****
-LongMessageChain,Community_Converted,0.0828142727151367
-LongMessageChain,Continuous Integration_Converted,-0.0710881494914363
-LongMessageChain,Documentation_Converted,0.113425505904796*
-LongMessageChain,History_Converted,-0.0230342093254743
-LongMessageChain,Issues_Converted,0.0786358108298618
-LongMessageChain,License_Converted,0.000994258454300256
-LongMessageChain,Unit Testing_Converted,-0.0112032613279462
-LongMethod,Stars,0.12022356444952**
-LongMethod,Commits,0.109438075951579**
-LongMethod,Lines of Code,0.367664053028737****
-LongMethod,Community_Converted,0.0789339390328221
-LongMethod,Continuous Integration_Converted,-0.07788003313262
-LongMethod,Documentation_Converted,0.0896267442415832
-LongMethod,History_Converted,-0.0165159576009745
-LongMethod,Issues_Converted,0.0749116857586812
-LongMethod,License_Converted,-0.0134218224255337
-LongMethod,Unit Testing_Converted,-0.023091289591941
-LongParameterList,Stars,0.12022356444952**
-LongParameterList,Commits,0.109438075951579**
-LongParameterList,Lines of Code,0.367664053028737****
-LongParameterList,Community_Converted,0.0789339390328221
-LongParameterList,Continuous Integration_Converted,-0.07788003313262
-LongParameterList,Documentation_Converted,0.0896267442415832
-LongParameterList,History_Converted,-0.0165159576009745
-LongParameterList,Issues_Converted,0.0749116857586812
-LongParameterList,License_Converted,-0.0134218224255337
-LongParameterList,Unit Testing_Converted,-0.023091289591941
-LongScopeChaining,Stars,0.0984630483361866**
+LongBaseClassList,Lines of Code,0.289251067950419*
+LongBaseClassList,Community,0.0688294361358571
+LongBaseClassList,Continuous Integration,-0.0790041891635095
+LongBaseClassList,Documentation,0.0673769864483289
+LongBaseClassList,History,-0.0064385544103736
+LongBaseClassList,Issues,0.0470884595019353
+LongBaseClassList,License,-0.0552706467002002
+LongBaseClassList,Unit Testing,-0.0156870481073771
+LongBaseClassList,Contributors,0.115361729563789*
+LongMessageChain,Stars,0.113203777447413*
+LongMessageChain,Commits,0.104990566321421*
+LongMessageChain,Lines of Code,0.359866655455564**
+LongMessageChain,Community,0.0828142727151367
+LongMessageChain,Continuous Integration,-0.0710881494914363
+LongMessageChain,Documentation,0.113425505904796*
+LongMessageChain,History,-0.0230342093254743
+LongMessageChain,Issues,0.0786358108298618
+LongMessageChain,License,0.000994258454300256
+LongMessageChain,Unit Testing,-0.0112032613279462
+LongMessageChain,Contributors,0.0790996975890164
+LongMethod,Stars,0.12022356444952*
+LongMethod,Commits,0.109438075951579*
+LongMethod,Lines of Code,0.367664053028737**
+LongMethod,Community,0.0789339390328221
+LongMethod,Continuous Integration,-0.07788003313262
+LongMethod,Documentation,0.0896267442415832
+LongMethod,History,-0.0165159576009745
+LongMethod,Issues,0.0749116857586812
+LongMethod,License,-0.0134218224255337
+LongMethod,Unit Testing,-0.023091289591941
+LongMethod,Contributors,0.103800037097511*
+LongParameterList,Stars,0.12022356444952*
+LongParameterList,Commits,0.109438075951579*
+LongParameterList,Lines of Code,0.367664053028737**
+LongParameterList,Community,0.0789339390328221
+LongParameterList,Continuous Integration,-0.07788003313262
+LongParameterList,Documentation,0.0896267442415832
+LongParameterList,History,-0.0165159576009745
+LongParameterList,Issues,0.0749116857586812
+LongParameterList,License,-0.0134218224255337
+LongParameterList,Unit Testing,-0.023091289591941
+LongParameterList,Contributors,0.103800037097511*
+LongScopeChaining,Stars,0.0984630483361866
 LongScopeChaining,Commits,0.0394851818200951
-LongScopeChaining,Lines of Code,0.302669274516795****
-LongScopeChaining,Community_Converted,0.103949482956114*
-LongScopeChaining,Continuous Integration_Converted,-0.0373331849630531
-LongScopeChaining,Documentation_Converted,0.126328341630294**
-LongScopeChaining,History_Converted,-0.00613288283853896
-LongScopeChaining,Issues_Converted,0.0220373454102858
-LongScopeChaining,License_Converted,0.0416820952200728
-LongScopeChaining,Unit Testing_Converted,0.00427289545420635
-LongTernaryConditionalExpression,Stars,0.103773050405306**
+LongScopeChaining,Lines of Code,0.302669274516795**
+LongScopeChaining,Community,0.103949482956114*
+LongScopeChaining,Continuous Integration,-0.0373331849630531
+LongScopeChaining,Documentation,0.126328341630294*
+LongScopeChaining,History,-0.00613288283853896
+LongScopeChaining,Issues,0.0220373454102858
+LongScopeChaining,License,0.0416820952200728
+LongScopeChaining,Unit Testing,0.00427289545420635
+LongScopeChaining,Contributors,0.0564372867864964
+LongTernaryConditionalExpression,Stars,0.103773050405306*
 LongTernaryConditionalExpression,Commits,0.00507180217601401
-LongTernaryConditionalExpression,Lines of Code,0.243591385261302****
-LongTernaryConditionalExpression,Community_Converted,0.0998719830794118*
-LongTernaryConditionalExpression,Continuous Integration_Converted,-0.0403636570489423
-LongTernaryConditionalExpression,Documentation_Converted,0.101584430476141*
-LongTernaryConditionalExpression,History_Converted,0.0646913334515865
-LongTernaryConditionalExpression,Issues_Converted,0.0800470918951322
-LongTernaryConditionalExpression,License_Converted,-0.00999209438470458
-LongTernaryConditionalExpression,Unit Testing_Converted,-0.0167736849525665
+LongTernaryConditionalExpression,Lines of Code,0.243591385261302*
+LongTernaryConditionalExpression,Community,0.0998719830794118
+LongTernaryConditionalExpression,Continuous Integration,-0.0403636570489423
+LongTernaryConditionalExpression,Documentation,0.101584430476141*
+LongTernaryConditionalExpression,History,0.0646913334515865
+LongTernaryConditionalExpression,Issues,0.0800470918951322
+LongTernaryConditionalExpression,License,-0.00999209438470458
+LongTernaryConditionalExpression,Unit Testing,-0.0167736849525665
+LongTernaryConditionalExpression,Contributors,0.0195383511808126
 MultiplyNestedContainer,Stars,0.0248851650822471
 MultiplyNestedContainer,Commits,0.0504134855244727
-MultiplyNestedContainer,Lines of Code,0.329618243435945****
-MultiplyNestedContainer,Community_Converted,0.0274852426155752
-MultiplyNestedContainer,Continuous Integration_Converted,-0.0871165794452446
-MultiplyNestedContainer,Documentation_Converted,0.0831844332992533
-MultiplyNestedContainer,History_Converted,0.00437438824217669
-MultiplyNestedContainer,Issues_Converted,0.095032329298173
-MultiplyNestedContainer,License_Converted,-0.00745638283834842
-MultiplyNestedContainer,Unit Testing_Converted,-0.0162320875868191
+MultiplyNestedContainer,Lines of Code,0.329618243435945**
+MultiplyNestedContainer,Community,0.0274852426155752
+MultiplyNestedContainer,Continuous Integration,-0.0871165794452446
+MultiplyNestedContainer,Documentation,0.0831844332992533
+MultiplyNestedContainer,History,0.00437438824217669
+MultiplyNestedContainer,Issues,0.095032329298173
+MultiplyNestedContainer,License,-0.00745638283834842
+MultiplyNestedContainer,Unit Testing,-0.0162320875868191
+MultiplyNestedContainer,Contributors,0.0295461327790329

@@ -3,7 +3,7 @@ library(dplyr)
 library(viridis)  # Per la palette di colori per daltonici
 
 # Caricare i dati dal CSV
-data <- read.csv("./RQ1/dataset/not_well_eng_.csv")
+data <- read.csv("/Users/broke31/Desktop/Euromicro2024/RQ1/dataset/not_well_eng_.csv")
 
 selected_data <- data %>% select(ComplexContainerComprehension,
                                  ComplexLambdaExpression,
@@ -52,4 +52,3 @@ p <- ggplot(df_plot, aes(x = reorder(Smell, Percentage), y = Percentage, fill = 
         legend.position = "none")  # Rimuovi la legenda
 
 print(p)
-
